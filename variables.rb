@@ -1,9 +1,17 @@
 username = "@b_serge13"
+email = "blakesergesketter@gmail.com"
+first_name = "Blake"
+
 height_in_inches = 74 
+age = 31 
+weight 195
 
 fastest_mile_time = 6.15 
+my_car_mpg = 32.45
 
-plant_based = true 
+loves_tacos = true
+plant_based = true
+hates_food = false  
 
 
 print username 
@@ -26,8 +34,8 @@ print plant_based
 
 
 
-puts "Hello Group 1, this is #{user_name}"
-puts "I am #{height_in_inches}"
+puts "Hello Group 1, this is #{first_name}"
+puts "I am #{age}"
 puts "I used to run distance races, and my best time was #{fastest_mile_time}"
-puts "If you heard I am vegan then that is indeed, #{plant_based}"
+puts "I am #{height_in_inches} inches tall"
 

@@ -26,7 +26,7 @@ print plant_based
 
 
 
-puts "Hell Group 1, this is user_name!"
+puts "Hello Group 1, this is user_name!"
 puts "I am height_in_inches."
 puts "I used to run distance races, and my best time was fastest_mile_time."
 print "If you heard I am vegan then that is indeed, plant_based."

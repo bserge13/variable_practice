@@ -4,7 +4,7 @@ first_name = "Blake"
 
 height_in_inches = 74 
 age = 31 
-weight 195
+
 
 fastest_mile_time = 6.15 
 my_car_mpg = 32.45
